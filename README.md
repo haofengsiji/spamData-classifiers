@@ -10,3 +10,10 @@ pass
 
 pass
 
+## Gaussian Naïve Bayes Classifier
+
+pass
+
+## Logistic Regression Classifier
+
+pass
