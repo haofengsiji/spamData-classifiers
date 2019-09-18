@@ -17,3 +17,8 @@ pass
 ## Logistic Regression Classifier
 
 pass
+
+## K-Nearest Neighbors
+
+pass
+
