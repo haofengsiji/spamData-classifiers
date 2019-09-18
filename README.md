@@ -4,21 +4,39 @@ This is my solution to Pattern Recognition CA1. Please don't just copy&paste my 
 
 ## Preparation
 
-pass
+Install `jupyter notebook` to run the code. 
+
+Or just see the result  on [the github](https://github.com/haofengsiji/spamData-classifiers)(<---click it)
+
+Include these modules in the environment.
+
+`pip install scipy`
+
+`pip install numpy`
+
+`pip install matplotlib`
 
 ## Beta-binomial Naïve Bayes Classifier
 
-pass
+`shift + Enter` to run the code
+
+I have all the explanation in the code.
 
 ## Gaussian Naïve Bayes Classifier
 
-pass
+`shift + Enter` to run the code
+
+I have full explanation in the code.
 
 ## Logistic Regression Classifier
 
-pass
+`shift + Enter` to run the code
+
+I have all the explanation in the code.
 
 ## K-Nearest Neighbors
 
-pass
+`shift + Enter` to run the code
+
+I have all the explanation in the code.
 
