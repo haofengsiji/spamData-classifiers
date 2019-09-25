@@ -26,7 +26,7 @@ I have all the explanation in the code.
 
 `shift + Enter` to run the code
 
-I have full explanation in the code.
+I have all explanation in the code.
 
 ## Logistic Regression Classifier
 
